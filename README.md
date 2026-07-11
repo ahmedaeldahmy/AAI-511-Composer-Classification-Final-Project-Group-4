@@ -57,5 +57,6 @@ Power Usage for this Project
 •	Another option is to buy the subscription in case you need more computational power (recommended).
 o	Please follow this link to do so: Google Colab Pro+
 
-# NOTE: Team members may not get the same grade on the Final Team Project, depending on each team member's level of contribution.
+# NOTE: 
+Team members may not get the same grade on the Final Team Project, depending on each team member's level of contribution.
 To understand how your work will be assessed, view the assignment rubric on the Final Team Project page.
