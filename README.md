@@ -1,6 +1,6 @@
-# AAI-511-Composer-Classification-Final-Project-Group-4 :using CNN and LSTM models to classify classical music MIDI files by composer.
+# AAI-511-Composer-Classification-Final-Project-Group-4
 
-# Project requirement: AAI 511-03 Review: Final Team Project Introduction
+using CNN and LSTM models to classify classical music MIDI files by composer.
 
 # Introduction
 
