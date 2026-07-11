@@ -1,29 +1,4 @@
-# AAI-511-Composer-Classification-Final-Project-Group-4
-Final team project for AAI 511-03 using CNN and LSTM models to classify classical music MIDI files by composer.
-
-# Dataset Instructions
-
-The dataset is not uploaded to GitHub due to file size.
-
-Use the `midiclassics` dataset folder from the project ZIP file.
-
-Only the following composer folders are used:
-
-- Bach
-- Beethoven
-- Chopin
-- Mozart
-
-Expected local folder structure:
-
-text
-data/
-  midiclassics/
-    Bach/
-    Beethoven/
-    Chopin/
-    Mozart/
-
+# AAI-511-Composer-Classification-Final-Project-Group-4 :using CNN and LSTM models to classify classical music MIDI files by composer.
 
 # Project requirement: AAI 511-03 Review: Final Team Project Introduction
 
